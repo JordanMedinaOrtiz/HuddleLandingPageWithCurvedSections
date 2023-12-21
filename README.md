@@ -33,3 +33,4 @@
   <li>Explora las secciones curvas y observa la implementación de los conceptos aprendidos.</li>
 </ol>
 <p>Este proyecto ha sido una valiosa experiencia de aprendizaje y práctica, contribuyendo al crecimiento y consolidación de habilidades esenciales en el desarrollo frontend.</p>
+<p>Puedes ver la demostración del proyecto <a href="https://jordanportafoliodeevidencias.com/PrimerReto/">aquí</a></p>
